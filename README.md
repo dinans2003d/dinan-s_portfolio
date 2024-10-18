@@ -1,6 +1,6 @@
 # Dinan Sooriyaarachchi's Portfolio
 
-# [Data Science Salary Analysis: Impact of Experience, Remote Work, and Location] (https://youtu.be/HTt4OW7SQoA?si=rSL1FUI7f7jYjTDc)
+# ([Data Science Salary Analysis: Impact of Experience, Remote Work, and Location] (https://youtu.be/HTt4OW7SQoA?si=rSL1FUI7f7jYjTDc))
 
 * This project examines the impact of experience level, work type (remote vs. on-site), and geographic location on data science * salaries. Using Python (Pandas, Seaborn, Matplotlib) for data cleaning and analysis, and Tableau for visualization, the study * identifies key compensation trends.
 
