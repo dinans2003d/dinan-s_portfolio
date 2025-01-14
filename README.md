@@ -1,4 +1,4 @@
-# Dinan Sooriyaarachchi's Portfolio
+# Dinan Sooriyaarachchi's Data Science Salary Compensation Analysis
 
 ## [Data Science Salary Analysis: Impact of Experience, Remote Work, and Location](https://youtu.be/HTt4OW7SQoA?si=rSL1FUI7f7jYjTDc)
 
